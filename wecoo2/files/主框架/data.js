@@ -1,0 +1,7 @@
+﻿$axure.loadCurrentPage(
+(function() {
+    var _ = function() { var r={},a=arguments; for(var i=0; i<a.length; i+=2) r[a[i]]=a[i+1]; return r; }
+    var _creator = function() { return _(b,c,d,e,f,g,h,[i,j,k,l,m,n,o,p,q],r,_(s,t,u,v,w,x,y,_(),z,_(A,B,C,D,E,_(F,G,H,I),J,null,K,D,L,D,M,N,O,null,P,Q,R,S,T,U,V,Q),W,_(),X,_(),Y,_(Z,[_(ba,bb,bc,bd,u,be,bf,be,bg,bh,z,_(bi,_(bj,bk,bl,bm)),W,_(),bn,_(bo,r,b,bp,bq,bh))])),br,_(),bs,_(bt,_(bu,bv)));}; 
+var b="url",c="主框架.html",d="generationDate",e=new Date(1445501380493.99),f="isCanvasEnabled",g=false,h="variables",i="money_time",j="richeng_time",k="huyi_time",l="huiyitaolun_time",m="xiaoxi_time",n="system_time",o="huiyi3_time",p="touch_time",q="system_t",r="page",s="packageId",t="dc3a832a32274c9ba70b7811ef3a9689",u="type",v="Axure:Page",w="name",x="主框架",y="notes",z="style",A="baseStyle",B="627587b6038d43cca051c114ac41ad32",C="pageAlignment",D="near",E="fill",F="fillType",G="solid",H="color",I=0xFFFFFFFF,J="image",K="imageHorizontalAlignment",L="imageVerticalAlignment",M="imageRepeat",N="auto",O="favicon",P="sketchFactor",Q="0",R="colorStyle",S="appliedColor",T="fontName",U="Applied Font",V="borderWidth",W="adaptiveStyles",X="interactionMap",Y="diagram",Z="objects",ba="id",bb="2006aa61bb2b48b084058d20e9721de2",bc="label",bd="",be="inlineFrame",bf="styleType",bg="visible",bh=true,bi="size",bj="width",bk=248,bl="height",bm=436,bn="target",bo="targetType",bp="登陆注册.html",bq="includeVariables",br="masters",bs="objectPaths",bt="2006aa61bb2b48b084058d20e9721de2",bu="scriptId",bv="u0";
+return _creator();
+})());
